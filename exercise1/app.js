@@ -36,9 +36,9 @@ eventEmitter
 // call module method
 // ft.Cheer();
 // ft.Boo();
-console.log(calc.Add(num1, num2));
-console.log(calc.Subtr(num1, num2));
-console.log(comp.areNumEqual(num1,num2));
+// console.log(calc.Add(num1, num2));
+// console.log(calc.Subtr(num1, num2));
+// console.log(comp.areNumEqual(num1,num2));
 console.log(result);
-eventEmitter.emit('stay');
-eventEmitter.emit('sit');
+// eventEmitter.emit('stay');
+// eventEmitter.emit('sit');
