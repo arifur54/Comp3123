@@ -1,4 +1,4 @@
-class Name {
+export class Name {
     firstName: string;
     lastName: string;
 
@@ -12,4 +12,4 @@ class Name {
     }
     
 }
-export class Name
+

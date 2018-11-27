@@ -11,9 +11,3 @@ var Name = /** @class */ (function () {
     return Name;
 }());
 exports.Name = Name;
-var Name = /** @class */ (function () {
-    function Name() {
-    }
-    return Name;
-}());
-exports.Name = Name;
